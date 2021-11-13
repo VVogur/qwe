@@ -1,0 +1,32 @@
+body{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    color:blueviolet;
+    margin: 25px 0;
+}
+
+h1{
+   color: dodgerblue;
+   font-size: 60px;
+}
+
+div{
+    width: 60%;
+    margin: auto;
+    padding: 50px;
+    background-color: #1e67b3;
+}
+
+a{
+    text-decoration: none;
+    color: tomato;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
